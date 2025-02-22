@@ -1,0 +1,13 @@
+{
+    "logo": "images/logo.png",
+    "products": [
+        {
+            "image": "images/products/red-chilli.jpg",
+            "name": "Red Chilli Powder"
+        },
+        {
+            "image": "images/products/turmeric.jpg",
+            "name": "Turmeric Powder"
+        }
+    ]
+}
